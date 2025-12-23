@@ -165,7 +165,8 @@ BookCover.html
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (19).png>)
+<img width="1456" height="882" alt="Screenshot 2025-12-23 093907" src="https://github.com/user-attachments/assets/019f483f-7f68-4917-b896-a6e86ef965be" />
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
